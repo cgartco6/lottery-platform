@@ -4,5 +4,3 @@ numpy
 matplotlib
 seaborn
 plotly
-requests
-python-dateutil
